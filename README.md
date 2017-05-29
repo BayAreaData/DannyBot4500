@@ -8,17 +8,17 @@ Create your [Twitter app](https://apps.twitter.com) and generate access tokens w
 
 ### Deploy with no Papertrail addon [no card required]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BooDoo/ebooks_example/tree/deploy-no-card)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BayAreaData/DannyBot4500/tree/deploy-no-card)
 
 ### Deploy using Papertrail for online logs
 #### [Valid Credit Card required, but free to use]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BooDoo/ebooks_example/tree/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BayAreaData/DannyBot4500/tree/deploy)
 
 ### Deploy using Papertrail and Cloudinary for persistent files
 #### [Valid Credit Card required, but free to use]
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BooDoo/ebooks_example/tree/persist-cloudinary)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/BayAreaData/DannyBot4500/tree/persist-cloudinary)
 
 Put your BOT_NAME, SOURCE_USERNAME, and API secrets into Heroku Config Vars using the web dashboard.
 
